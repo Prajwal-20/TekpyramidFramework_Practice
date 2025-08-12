@@ -6,6 +6,7 @@ public class Prajwal {
 		// TODO Auto-generated method stub
 
 		System.out.println(" Fake");
+		System.out.println("reall");
 	}
 
 }
